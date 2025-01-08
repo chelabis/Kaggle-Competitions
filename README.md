@@ -3,4 +3,4 @@
 
 ## C1 : First competition - Forecasting Sticker Sales
 ### Regression problem
-#### Second version has better results
+#### Includes 4 versions with the best 0.15 MAPE
