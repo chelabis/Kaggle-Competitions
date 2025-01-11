@@ -3,6 +3,7 @@
 
 ## C1 : First competition - Forecasting Sticker Sales
 ### Regression problem
+#### Dataset: 'train.csv' , 'test.csv'
 #### Includes 4 versions with the best 0.15 MAPE
 
 
