@@ -4,7 +4,7 @@
 ## C1 : First competition - Forecasting Sticker Sales
 ### Regression problem
 #### Dataset: 'train.csv' , 'test.csv'
-#### Includes 4 versions with the best 0.15 MAPE
+#### Includes 5 versions (RF, CatBoost, LGBM, DNN, DNN2) with the best 0.15 MAPE
 
 
 ## C2 : Second competition - Flight Delay Prediction
